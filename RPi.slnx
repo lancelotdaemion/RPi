@@ -6,7 +6,7 @@
   <Project Path="Led/Led.csproj">
     <Platform Solution="*|ARM64" Project="ARM64" />
   </Project>
-  <Project Path="Rfc/Rfc.csproj">
+  <Project Path="Nfc/Nfc.csproj">
     <Platform Solution="*|ARM64" Project="ARM64" />
   </Project>
   <Project Path="Temp/Temp.csproj">
