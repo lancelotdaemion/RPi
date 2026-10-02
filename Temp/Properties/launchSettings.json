@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Temp": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM64" />
+  </Configurations>
+  <Project Path="Led/Led.csproj">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+  </Project>
+  <Project Path="Temp/Temp.csproj">
+    <Platform Solution="*|ARM64" Project="ARM64" />
+  </Project>
+</Solution>
